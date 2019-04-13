@@ -4,7 +4,7 @@ This repo is a collection of toy-exercises and a project in graph analysis appli
 Some of its content can be viewed as a preliminary for more serious graph analysis applied to a great number of fields in social sciences, medecine, computer network engineering, climatology, and a spate of other natural science areas.
 
 ##### Content:
-Some of the work presented here is concerned with mere toy examples meant for others to hone their skills. They are mostly those in folders named Lab1, Lab2, etc.  Other developments are more personal and involve a greater amount of coding using R and/or python scripting.
+Some of the work presented here is concerned with mere toy examples meant for others to hone their skills. Other developments are more personal and involve a greater amount of coding using R and/or python scripting.
 
 ##### Data-sets:
 Some of the public domain data sets used to perfom analyses could not be uploaded on this repo due to the size limitations on individual files imposed by GitHub or due to restriction on the diffusion channels. In such cases at least a snapshot of the data sets is provided as well as a URL, where it or some very similar data can be obtained. The downloaded data set may or may not be identical to the one originally used to obtain results presented here. The responsability for that falls squarely  on the data maintainer. In practice however, interested people may still benefit from the strategy laid out to deal with the data, irrespectively of whether some of the data as changed. Data set changes over the years (if any) are likely to be all or nothing in any case; i.e. a data set may altogether cease to be available because the website has disappeared or moved or scrubbed or all of the above. 
